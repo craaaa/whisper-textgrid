@@ -1,0 +1,11 @@
+# Participant data and results: never commit.
+audio/*
+!audio/.gitkeep
+textgrid/*
+!textgrid/.gitkeep
+out/
+logs/
+
+# Python environment built by install.sh
+.venv/
+__pycache__/

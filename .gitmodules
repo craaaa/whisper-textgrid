@@ -1,0 +1,3 @@
+[submodule "VoxHumana"]
+	path = VoxHumana
+	url = https://github.com/JoeyStanley/VoxHumana.git
